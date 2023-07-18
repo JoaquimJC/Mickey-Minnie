@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-color: rgb(255, 0, 0);
+}
+
+img{
+    height: 250px;
+    border-radius: 80px; 
+    display:block;
+    margin:3% auto ;
+    border:5px outset white
+}
+
+h1{
+    background-color: rgb(255, 255, 255);
+}
